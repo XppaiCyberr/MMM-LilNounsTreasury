@@ -1,0 +1,73 @@
+/* MMM-LilNounsTreasury CSS */
+
+.mmm-nouns-treasury {
+    width: 100%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.mmm-nouns-treasury .module-header {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: #FFFFFF;
+}
+
+.mmm-nouns-treasury .portfolio-total {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 15px 0;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.mmm-nouns-treasury .portfolio-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.mmm-nouns-treasury .portfolio-table tr {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.mmm-nouns-treasury .portfolio-table tr:last-child {
+    border-bottom: none;
+}
+
+.mmm-nouns-treasury .portfolio-table td {
+    padding: 8px 10px;
+    font-size: 14px;
+}
+
+.mmm-nouns-treasury .portfolio-table td:first-child {
+    color: rgba(255, 255, 255, 0.5);
+    text-align: left;
+}
+
+.mmm-nouns-treasury .token-balance {
+    color: rgba(255, 255, 255, 0.7);
+    text-align: right;
+}
+
+.mmm-nouns-treasury .token-value {
+    color: #FFFFFF;
+    text-align: right;
+    font-weight: 500;
+}
+
+.mmm-nouns-treasury .xsmall {
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.5);
+    text-align: right;
+    margin-top: 10px;
+    font-style: italic;
+}
+
+.mmm-nouns-treasury .dimmed {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.mmm-nouns-treasury .light {
+    color: rgba(255, 255, 255, 0.7);
+}
